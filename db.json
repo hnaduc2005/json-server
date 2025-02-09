@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Kiến Thức Nhập Môn IT",
+      "link": "https://files.fullstack.edu.vn/f8-prod/courses/15/62f13d2424a47.png",
+      "price": "1.999.000",
+      "author": "Sơn Đặng"
+    },
+    {
+      "id": "1",
+      "name": "Kiến Thức Nhập Môn IT",
+      "link": "https://files.fullstack.edu.vn/f8-prod/courses/15/62f13d2424a47.png",
+      "price": "1.999.000",
+      "author": "Sơn Đặng"
+    },
+    {
+      "id": "1",
+      "name": "Kiến Thức Nhập Môn IT",
+      "link": "https://files.fullstack.edu.vn/f8-prod/courses/15/62f13d2424a47.png",
+      "price": "1.999.000",
+      "author": "Sơn Đặng"
+    },
+    {
+      "id": "1",
+      "name": "Kiến Thức Nhập Môn IT",
+      "link": "https://files.fullstack.edu.vn/f8-prod/courses/15/62f13d2424a47.png",
+      "price": "1.999.000",
+      "author": "Sơn Đặng"
+    }
+  ]
+}
